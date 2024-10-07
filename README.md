@@ -51,6 +51,8 @@ stances as stated above. The usage of mostly hardware components and reducing
 ## Block Diagram
 <details>
   <summary>Detail</summary>
+  <img alt="S2-T23" src="https://github.com/user-attachments/assets/8af5dcde-2d99-46a1-8d1f-dbcb584847a9"></img>
+</details>
 
   > Explain the working of your model with the help of a functional table (compulsory) followed by the flowchart.
 </details>
