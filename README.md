@@ -28,8 +28,8 @@
  day by day. That’s why we have thought of an idea to make the locks completely
  out of hardware components like integrated circuits and logic gates.
 > 
-   > Problem Statement:  The project mainly focuses on the betterment of the envi
-ronment which is being depleted day by day and might not be there for our future
+   > Problem Statement:  The project mainly focuses on the betterment of the environment
+>  which is being depleted day by day and might not be there for our future
  generations to use. Since many precious substances like Silicon, Quartz are being
  depleted by the uprising technological era as everything around us is digitalizing.
  So, we are thinking of a design which might reduce the depletion of precious sub
