@@ -1,4 +1,4 @@
-# Hardware Implementation of Hashing Algorithm
+# 4-digit number lock system
 
 <!-- First Section -->
 ## Team Details
