@@ -76,7 +76,7 @@ stances as stated above. The usage of mostly hardware components and reducing
 ## Verilog Code
 <details>
   <summary>Detail</summary>
-  >module comp_1bit(a,b,lt,eq,gt); input a,b;
+  module comp_1bit(a,b,lt,eq,gt); input a,b;
     output lt,gt,eq; 
     wire abar,bbar; 
     assign abar = ~a; 
@@ -173,7 +173,7 @@ endmodule
 
 <details>
   <summary>Detail</summary>
-  >
+  
   module comparator_tb(); reg [15:0] a,b;
     wire eq,ls,gt;
     comparator m1(a,b,eq,gt,ls);
