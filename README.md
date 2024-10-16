@@ -74,17 +74,18 @@ stances as stated above. The usage of mostly hardware components and reducing
 
 <!-- Sixth Section -->
   ## Verilog Code
-    <details>
-      <summary>Detail</summary>
+  <details>
+    <summary>Detail</summary>
+    
       module comp_1bit(a,b,lt,eq,gt); 
-        input a,b;
-        output lt,gt,eq; 
-        wire abar,bbar; 
-        assign abar = ~a; 
-        assign bbar = ~b;
-        assign lt = abar & b; 
-        assign gt = bbar & a; 
-        assign eq = ~(lt|gt); 
+          input a,b;
+          output lt,gt,eq; 
+          wire abar,bbar; 
+          assign abar = ~a; 
+          assign bbar = ~b;
+          assign lt = abar & b; 
+          assign gt = bbar & a; 
+          assign eq = ~(lt|gt); 
       endmodule
     
       module comparator4(A,B,LT1,GT1,EQ1,LT2,GT2,EQ2); 
