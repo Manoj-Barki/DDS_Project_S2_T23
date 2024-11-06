@@ -66,7 +66,7 @@ stances as stated above. The usage of mostly hardware components and reducing
 ## Logisim Circuit Diagram
 <details>
   <summary>Detail</summary>
-  <img alt="Logisim" src="https://github.com/user-attachments/assets/9cb8b8e2-b737-4ad4-9b78-f4663a121b7c"></img>
+  <img alt="Logisim" src="https://github.com/user-attachments/assets/e6543172-34dc-4263-baf7-527c9415ba68"></img>
 
 
   
